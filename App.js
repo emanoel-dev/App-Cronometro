@@ -118,7 +118,7 @@ const styles = StyleSheet.create({
     color: '#00aeef'
   },
   tempo: {
-    marginTop: 50,
+    marginTop: 50
   },
   textoTempo: {
     fontSize: 25,
