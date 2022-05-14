@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# App-Gerador-de-Biscoitos
+# App Cronometro
 
-Aplicativo Gerador de Biscoitos criado durante as aulas de React Native
-=======
-# app-cronometro
->>>>>>> 1878b5bffa7ee8d201e9a0169b881d2150c8fbf9
+Aplicativo Cronometro desenvolvido em aulas de React Native na plataforma Udemy.
